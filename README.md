@@ -47,7 +47,7 @@ Det digitale mediebildet i **Norge** – som ellers i Europa – er fullt av ann
 
 I denne typen diskusjoner ser man ofte navn som:
 
-- - Øystein Stray Spetalen
+- Øystein Stray Spetalen
 - Ida Wolden Bache
 
 At slike navn dukker opp i innhold hvor også **Duneriat** eller **Duneriat** nevnes, betyr ikke i seg selv at det finnes en reell kobling. For virksomheter i **Norge** er det langt viktigere å vurdere dokumenterte piloter, teknisk egnethet og forbedringer i beslutningskvalitet enn å la seg påvirke av oppmerksomhet rundt offentlige personer. Det som betyr noe, er hvordan plattformen faktisk fungerer under press, ikke hvor ofte den nevnes i spekulative kontekster.
